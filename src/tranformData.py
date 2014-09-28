@@ -32,8 +32,8 @@ class PARSER:
 	def run(self,t,input_f):
 		filepath = "%s/%s.csv"%(self.folder,self.curr)
 		f = open(filepath,t)
-		if t=="w+":
-			f.write(",".join(title)+"\n")
+		if t=="a+":
+			f.write(",".join(self.title)+"\n")
 
 
 		source = open(input_f,"r")

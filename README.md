@@ -26,3 +26,12 @@ python getData.py [存放檔案路徑]
 ```{shell}
 python transformData.py [存放檔案路徑] [Currency_Code(USD)]
 ```
+
+## [匯率資料](https://github.com/ntuaha/Path_Simplification/blob/dev/data/USD.csv)
+
+1. 時間 2006/01/01 - 2014/09/27
+2. 時間間距 從1970/01/01到資料日期的**天數**
+3. USD.csv  美金對台幣的匯率
+
+
+

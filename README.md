@@ -18,7 +18,11 @@ curl -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.31 (KHTM
 
 可以直接執行,會自動下載從2006到現在的檔案
 
-```
+```{shell}
 python getData.py [存放檔案路徑]
 ```
 
+執行下面這段，講資料轉成csv
+```{shell}
+python transformData.py [存放檔案路徑] [Currency_Code(USD)]
+```

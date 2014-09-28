@@ -32,10 +32,6 @@ class PARSER:
 	def run(self,t,input_f):
 		filepath = "%s/%s.csv"%(self.folder,self.curr)
 		f = open(filepath,t)
-		if t=="a+":
-			f.write(",".join(self.title)+"\n")
-
-
 		source = open(input_f,"r")
 		index = 0
 		word = ""
@@ -76,6 +72,9 @@ class PARSER:
 			os.remove(filepath)
 		except OSError :
 			print "No such file"
+		f = open(filepath,"w+")
+		f.write(",".join(self.title)+"\n")
+		f.close()
 		for i in xrange(start,end,2):
 			start_dt =  str(i)+"0101"
 			end_dt = str(i+1)+"1231"

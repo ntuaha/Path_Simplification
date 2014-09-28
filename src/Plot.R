@@ -3,7 +3,7 @@ colnames(df) = c("data_dt","time_ind","buy_rate","sell_rate","type","type2","err
 library(dplyr)
 library(ggplot2)
 df = mutate(df,time_ind = as.numeric(time_ind))
-df2 = filter(df,error>buy_rate*0.01)
+df2 = filter(df,error>buy_rate*0.012)
 df3 = left_join(df,df2,by="data_dt")
 p  =ggplot(df3,aes(x=time_ind.x))
 p + geom_line(aes(y=buy_rate.x))+geom_line(aes(x=time_ind.y,y=buy_rate.y,fill=error.y,color="red"))+geom_point(aes(x=time_ind.y,y=buy_rate.y,color="red"))

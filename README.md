@@ -33,5 +33,17 @@ python transformData.py [存放檔案路徑] [Currency_Code(USD)]
 2. 時間間距 從1970/01/01到資料日期的**天數**
 3. USD.csv  美金對台幣的匯率
 
+## 執行處理壓縮程式
+
+```{shell}
+python DP.py [資料位置] [存放檔案路徑] [容許最大誤差] [開啟方式]  
+```
+
+範例
+
+
+```{shell}
+python DP.py ../data/USD.csv ../data/USD_S.csv 0.1 1
+```
 
 

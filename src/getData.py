@@ -9,9 +9,8 @@ import os
 import sys
 
 
-# READ xlsx
-import xlrd
 import re
+import tranformData
 
 #處理掉unicode 和 str 在ascii上的問題
 reload(sys) 

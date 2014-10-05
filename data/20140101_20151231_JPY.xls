@@ -1,0 +1,1139 @@
+
+<html>
+
+	<table align="center" border="1" cellspacing="1" cellpadding="2" width="90%" class="tablebgcolor">
+		<tr>
+			<td align="center" class="td1" width="25%"><b><font color="#000000">日　　期<br>(Date)</font></b></td>
+			<td align="center" class="td1" width="31%"><b><font color="#000000">外幣幣別<br>(Currency)</font></b></td>
+			<td align="center" class="td1" width="22%"><b><font color="#000000">買進匯率<br>(We buy)</font></b></td>
+			<td align="center" class="td1" width="22%"><b><font color="#000000">賣出匯率<br>(We Sell)</font></b></td></tr>
+											
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2821</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2861</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2850</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2890</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2859</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2899</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2861</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2901</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2849</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2889</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2851</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2891</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2845</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2885</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2884</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2924</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2886</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2926</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2867</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2907</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2854</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2894</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2867</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2907</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2875</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2915</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2862</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2902</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2870</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2910</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2881</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2921</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2915</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2955</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2944</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2984</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2936</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2976</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2920</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2960</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2983</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.3023</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2966</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.3006</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2946</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2986</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2949</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2989</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2947</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2987</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2938</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2978</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2950</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2990</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2956</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2996</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2953</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2993</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2935</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2975</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2947</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2987</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2957</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2997</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2937</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2977</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2947</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2987</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2946</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2986</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2941</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2981</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2941</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2981</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2970</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.3010</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2955</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2995</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2943</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2983</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2927</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2967</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2921</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2961</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2919</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2959</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2913</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2953</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2928</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2968</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2936</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2976</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2960</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.3000</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2967</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.3007</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2964</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.3004</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2974</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.3014</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2963</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.3003</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2978</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.3018</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2962</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.3002</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2975</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.3015</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2966</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.3006</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2970</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.3010</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2966</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.3006</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/31</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2940</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2980</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/01</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2920</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2960</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2897</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2937</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2894</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2934</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2913</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2953</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2926</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2966</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2930</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2970</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2929</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2969</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2941</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2981</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2950</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2990</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2943</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2983</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2931</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2971</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2937</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2977</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2928</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2968</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2929</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2969</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2935</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2975</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2934</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2974</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2936</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2976</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2940</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2980</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2940</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2980</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2923</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2963</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2926</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2966</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2924</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2964</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2929</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2969</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2934</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2974</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2948</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2988</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2938</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2978</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2942</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2982</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2940</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2980</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2929</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2969</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2947</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2987</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2937</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2977</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2950</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2990</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2953</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2993</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2955</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2995</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2968</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.3008</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2947</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2987</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2940</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2980</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2933</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2973</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2940</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2980</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2935</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2975</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2939</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2979</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2936</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2976</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2913</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2953</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2908</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2948</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2909</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2949</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2921</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2961</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2909</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2949</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2915</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2955</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2913</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2953</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2919</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2959</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2930</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2970</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2924</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2964</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2920</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2960</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2916</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2956</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2925</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2965</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2924</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2964</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2924</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2964</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2920</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2960</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2924</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2964</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2923</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2963</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2929</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2969</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2925</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2965</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/01</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2925</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2965</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2922</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2962</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2912</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2952</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2910</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2950</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2912</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2952</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2917</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2957</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2921</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2961</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2926</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2966</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2934</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2974</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2931</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2971</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2933</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2973</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2937</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2977</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2939</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2979</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2937</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2977</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2942</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2982</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2935</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2975</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2936</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2976</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2923</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2963</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2924</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2964</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2919</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2959</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2916</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2956</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/31</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2896</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2936</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/01</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2894</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2934</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2903</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2943</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2903</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2943</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2907</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2947</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2914</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2954</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2936</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2976</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2920</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2960</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2914</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2954</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2910</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2950</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2908</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2948</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2907</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2947</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2907</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2947</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2904</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2944</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2883</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2923</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2870</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2910</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2870</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2910</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2859</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2899</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2866</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2906</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2859</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2899</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2861</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2901</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2860</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2900</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/01</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2849</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2889</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2834</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2874</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2831</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2871</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2830</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2870</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2823</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2863</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2798</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2838</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2791</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2831</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2788</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2828</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2779</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2819</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2782</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2822</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2795</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2835</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2788</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2828</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2765</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2805</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2750</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2790</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2756</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2796</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2768</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2808</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2765</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2805</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2752</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2792</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2759</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2799</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2762</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2802</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2761</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2801</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/10/01</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2752</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2792</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/10/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2775</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2815</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/10/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(JPY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2776</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.2816</font></b></td></tr>
+					
+	</table>
+		
+
+</body>
+</html>
+
+

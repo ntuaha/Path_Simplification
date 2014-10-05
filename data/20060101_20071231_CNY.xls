@@ -1,0 +1,3017 @@
+
+<html>
+
+	<table align="center" border="1" cellspacing="1" cellpadding="2" width="90%" class="tablebgcolor">
+		<tr>
+			<td align="center" class="td1" width="25%"><b><font color="#000000">日　　期<br>(Date)</font></b></td>
+			<td align="center" class="td1" width="31%"><b><font color="#000000">外幣幣別<br>(Currency)</font></b></td>
+			<td align="center" class="td1" width="22%"><b><font color="#000000">買進匯率<br>(We buy)</font></b></td>
+			<td align="center" class="td1" width="22%"><b><font color="#000000">賣出匯率<br>(We Sell)</font></b></td></tr>
+											
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/01/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0456</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0856</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/01/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0244</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0644</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/01/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0019</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0022</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/01/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0019</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0022</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/01/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0019</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0022</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/01/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9414</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9814</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/01/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9494</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9894</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/01/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9555</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9955</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/01/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9322</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9722</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/01/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9451</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9851</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/01/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9375</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9775</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/01/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9460</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9860</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/01/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9606</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0006</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/01/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9628</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0028</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/01/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9622</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0022</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/01/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9466</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9866</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/01/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9452</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9852</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/01/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9448</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9848</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/01/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9458</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9858</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/01/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9466</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9866</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/02/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9602</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0002</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/02/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9605</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0005</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/02/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9795</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0195</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/02/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9952</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0352</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/02/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0051</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0451</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/02/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9868</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0268</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/02/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0028</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0428</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/02/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9933</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0333</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/02/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0000</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/02/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0060</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0460</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/02/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0038</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0438</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/02/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0055</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0455</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/02/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0159</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0559</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/02/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0365</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0765</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/02/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0252</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0652</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/02/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0189</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0589</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/02/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0156</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0556</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/01</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9964</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0364</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9993</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0393</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0112</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0512</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0200</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0264</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0664</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0223</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0623</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0203</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0603</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0194</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0594</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0000</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0588</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0103</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0503</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0100</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0169</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0569</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0179</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0579</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0019</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0022</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0282</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0682</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0332</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0732</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0381</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0781</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0019</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0022</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0800</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0412</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0812</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0404</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0804</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0339</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0739</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/03/31</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0286</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0686</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/04/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0433</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0833</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/04/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0302</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0702</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/04/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0161</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0561</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/04/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0146</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0546</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/04/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0290</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0690</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/04/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0019</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0022</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/04/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0019</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0022</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/04/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0019</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0022</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/04/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0019</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0022</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/04/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0019</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0022</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/04/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0019</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0022</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/04/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0019</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0022</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/04/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0019</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0022</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/04/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0019</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0022</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/04/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0019</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0022</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/04/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0019</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0022</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/04/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0019</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0022</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/04/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0019</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0022</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/04/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0019</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0022</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/05/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0018</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0021</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/05/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0018</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0021</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/05/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0018</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0021</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/05/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0018</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0021</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/05/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0018</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0021</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/05/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0018</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0021</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/05/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0018</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0021</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/05/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0018</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0021</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/05/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0018</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0021</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/05/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0018</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 0.0021</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/05/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9512</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9912</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/05/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9249</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9649</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/05/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9562</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9962</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/05/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9650</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0050</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/05/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9860</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0260</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/05/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9688</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0088</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/05/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9693</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0093</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/05/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9802</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0202</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/05/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9739</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0139</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/05/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9706</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0106</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/05/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9687</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0087</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/06/01</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9806</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0206</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/06/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9790</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0190</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/06/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9806</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0206</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/06/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9804</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0204</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/06/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 3.9958</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0358</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/06/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0341</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0741</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/06/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0279</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0679</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/06/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0394</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0794</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/06/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0596</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0996</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/06/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0530</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0930</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/06/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0475</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0875</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/06/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0405</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0805</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/06/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0542</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0942</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/06/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0516</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0916</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/06/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0590</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0990</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/06/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0613</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1013</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/06/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0692</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1092</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/06/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0693</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1093</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/06/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0635</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1035</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/06/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0624</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1024</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/06/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0572</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0972</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/06/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0298</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0698</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/07/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0206</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0606</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/07/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0103</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0503</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/07/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0300</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0700</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/07/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0393</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0793</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/07/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0341</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0741</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/07/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0287</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0687</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/07/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0405</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0805</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/07/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0447</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0847</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/07/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0553</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0953</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/07/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0682</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1082</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/07/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0878</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1278</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/07/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0860</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1260</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/07/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0912</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1312</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/07/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0764</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1164</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/07/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0812</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1212</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/07/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0949</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1349</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/07/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0852</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1252</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/07/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0923</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1323</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/07/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0863</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1263</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/07/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0916</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1316</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/07/31</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0918</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1318</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/01</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0962</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1362</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1030</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1430</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1001</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1401</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0997</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1397</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0957</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1357</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0956</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1356</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0903</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1303</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0692</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1092</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0715</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1115</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0792</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1192</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0773</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1173</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0795</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1195</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0692</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1092</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0754</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1154</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0841</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1241</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0923</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1323</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.0923</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1323</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1002</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1402</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1056</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1456</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1092</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1492</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1090</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1490</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1144</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1544</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/08/31</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1163</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1563</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/09/01</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1141</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1541</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/09/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1037</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1437</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/09/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1064</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1464</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/09/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1071</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1471</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/09/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1142</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1542</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/09/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1149</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1549</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/09/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1179</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1579</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/09/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1213</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1613</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/09/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1181</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1581</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/09/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1228</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1628</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/09/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1263</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1663</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/09/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1241</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1641</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/09/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1260</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1660</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/09/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1313</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1713</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/09/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1310</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1710</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/09/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1408</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1808</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/09/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1392</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1792</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/09/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1403</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1803</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/09/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1496</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1896</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/09/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1583</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1983</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/09/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1651</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2051</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/10/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1695</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2095</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/10/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1601</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2001</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/10/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1682</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2082</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/10/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1647</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2047</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/10/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1857</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2257</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/10/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1794</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2194</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/10/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1728</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2128</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/10/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1780</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2180</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/10/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1803</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2203</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/10/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1729</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2129</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/10/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1775</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2175</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/10/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1773</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2173</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/10/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1816</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2216</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/10/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1922</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2322</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/10/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1936</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2336</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/10/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1972</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2372</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/10/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1934</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2334</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/10/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1978</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2378</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/10/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1973</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2373</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/10/31</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2016</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2416</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/11/01</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1919</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2319</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/11/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1739</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2139</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/11/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1617</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2017</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/11/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1622</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2022</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/11/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1481</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1881</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/11/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1568</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1968</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/11/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1572</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1972</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/11/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1525</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1925</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/11/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1399</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1799</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/11/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1431</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1831</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/11/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1507</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1907</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/11/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1537</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1937</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/11/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1626</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2026</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/11/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1657</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2057</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/11/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1552</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1952</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/11/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1519</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1919</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/11/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1519</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1919</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/11/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1592</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1992</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/11/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1900</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/11/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1440</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1840</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/11/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1282</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1682</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/11/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1197</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1597</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/12/01</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1131</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1531</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/12/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1158</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1558</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/12/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1022</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1422</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/12/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1090</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1490</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/12/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1046</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1446</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/12/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1190</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1590</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/12/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1293</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1693</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/12/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1289</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1689</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/12/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1357</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1757</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/12/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1428</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1828</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/12/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1439</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1839</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/12/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1419</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1819</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/12/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1659</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2059</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/12/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1528</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1928</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/12/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1447</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1847</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/12/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1456</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1856</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/12/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1492</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1892</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/12/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1547</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1947</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/12/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1606</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2006</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/12/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1593</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1993</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2006/12/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1534</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1934</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/01/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1255</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1655</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/01/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1259</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1659</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/01/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1433</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1833</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/01/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1556</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1956</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/01/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1616</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2016</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/01/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1624</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2024</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/01/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1750</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2150</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/01/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1860</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2260</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/01/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1800</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2200</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/01/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1831</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2231</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/01/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1857</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2257</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/01/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1952</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2352</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/01/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1993</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2393</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/01/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.1991</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2391</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/01/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2141</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2541</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/01/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2162</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2562</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/01/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2006</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2406</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/01/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2083</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2483</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/01/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2150</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2550</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/01/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2205</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2605</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/01/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2200</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/01/31</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2170</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2570</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/02/01</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2154</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2554</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/02/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2244</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2644</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/02/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2222</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2622</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/02/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2291</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2691</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/02/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2387</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2787</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/02/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2403</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2803</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/02/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2337</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2737</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/02/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2371</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2771</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/02/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2404</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2804</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/02/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2311</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2711</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/02/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2239</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2639</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/02/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2367</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2767</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/02/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2366</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2766</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/02/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2352</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2752</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/01</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2299</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2699</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2302</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2702</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2228</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2628</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2279</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2679</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2360</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2760</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2401</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2801</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2346</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2746</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2371</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2771</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2432</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2832</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2369</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2769</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2424</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2824</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2450</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2850</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2562</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2962</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2599</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2999</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2591</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2991</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2606</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3006</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2473</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2873</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2532</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2932</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2517</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2917</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2563</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2963</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2583</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2983</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2590</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2990</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/03/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2597</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2997</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/04/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2622</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3022</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/04/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2639</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3039</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/04/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2554</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2954</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/04/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2593</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2993</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/04/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2591</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2991</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/04/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2627</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3027</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/04/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2669</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3069</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/04/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2661</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3061</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/04/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2618</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3139</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/04/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2733</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3133</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/04/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2690</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3090</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/04/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2744</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3144</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/04/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2725</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3125</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/04/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2756</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3156</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/04/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2737</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3137</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/04/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2758</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3158</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/04/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2808</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3208</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/04/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2831</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3231</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/04/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2897</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3297</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/04/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3016</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3416</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/05/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3012</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3412</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/05/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2997</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3397</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/05/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2994</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3394</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/05/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2918</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3318</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/05/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3005</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3405</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/05/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3053</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3453</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/05/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3083</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3483</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/05/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3139</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3539</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/05/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3175</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3575</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/05/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3169</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3569</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/05/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3212</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3612</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/05/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3251</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3651</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/05/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3330</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3730</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/05/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3344</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3744</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/05/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3417</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3817</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/05/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3458</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3858</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/05/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3322</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3722</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/05/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3260</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3660</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/05/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3151</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3551</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/05/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2969</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3369</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/05/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2931</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3331</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/05/31</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3004</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3404</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/06/01</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2988</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3388</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/06/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2968</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3368</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/06/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2999</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3399</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/06/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3046</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3446</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/06/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2995</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3395</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/06/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2880</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3280</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/06/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2869</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3269</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/06/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2998</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3398</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/06/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3120</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3520</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/06/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3156</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3556</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/06/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3264</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3664</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/06/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3139</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3539</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/06/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3020</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3420</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/06/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2762</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3162</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/06/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2676</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3203</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/06/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2817</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3217</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/06/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2826</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3226</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/06/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2858</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3258</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/06/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2920</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3320</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/06/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2781</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3181</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/07/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2901</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3301</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/07/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2985</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3385</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/07/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2972</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3372</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/07/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2971</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3371</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/07/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2956</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3356</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/07/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.2769</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3169</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/07/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3024</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3424</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/07/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3076</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3476</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/07/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3136</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3536</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/07/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3120</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3520</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/07/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3165</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3565</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/07/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3203</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3603</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/07/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3206</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3606</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/07/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3206</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3606</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/07/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3119</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3519</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/07/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3176</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3576</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/07/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3134</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3534</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/07/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3219</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3619</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/07/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3193</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3593</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/07/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3284</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3684</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/07/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3187</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3587</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/07/31</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3161</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3561</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/01</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3207</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3607</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3186</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3586</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3250</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3650</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3317</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3717</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3292</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3692</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3227</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3627</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3278</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3678</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3312</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3712</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3286</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3686</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3312</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3712</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3334</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3734</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3800</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3149</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3549</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3122</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3522</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3182</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3582</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3169</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3569</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3247</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3647</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3393</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3793</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3437</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3837</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3495</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3895</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3585</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3985</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3579</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3979</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/08/31</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3557</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3957</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/09/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3546</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3946</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/09/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3558</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3958</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/09/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3559</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3959</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/09/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3559</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3959</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/09/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3635</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4035</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/09/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3757</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4157</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/09/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3764</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4164</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/09/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3790</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4190</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/09/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3830</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4230</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/09/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3831</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4231</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/09/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3807</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4207</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/09/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3795</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4195</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/09/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3850</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4250</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/09/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3820</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4220</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/09/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3734</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4134</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/09/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3646</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4046</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/09/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3496</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3896</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/09/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3301</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3701</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/09/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3139</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3685</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/10/01</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3197</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3597</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/10/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3201</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3601</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/10/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3207</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3607</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/10/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3243</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3643</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/10/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3231</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3631</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/10/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3223</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3623</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/10/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3159</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3559</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/10/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3213</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3613</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/10/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3216</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3616</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/10/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3140</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3540</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/10/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3167</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3567</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/10/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3207</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3607</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/10/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3200</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/10/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3192</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3592</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/10/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3172</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3572</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/10/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3205</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3605</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/10/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3259</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3659</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/10/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3220</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3620</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/10/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3156</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3556</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/10/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3147</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3547</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/10/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3159</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3559</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/10/31</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3214</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3614</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/11/01</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3252</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3652</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/11/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3252</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3652</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/11/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3276</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3676</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/11/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3251</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3651</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/11/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3295</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3695</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/11/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3327</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3727</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/11/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3298</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3698</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/11/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3361</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3761</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/11/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3264</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3664</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/11/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3198</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3598</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/11/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3313</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3713</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/11/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3360</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3760</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/11/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3379</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3779</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/11/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3382</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3782</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/11/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3428</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3828</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/11/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3444</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3844</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/11/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3475</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3875</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/11/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3476</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3876</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/11/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3553</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3953</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/11/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3513</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3913</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/11/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3558</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3958</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/11/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3474</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3874</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/12/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3427</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3827</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/12/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3478</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3878</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/12/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3543</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3943</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/12/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3394</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3794</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/12/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3460</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3860</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/12/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3510</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3910</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/12/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3632</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4032</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/12/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3700</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4100</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/12/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3706</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4106</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/12/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3727</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4127</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/12/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3830</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4230</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/12/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3849</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4249</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/12/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3837</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4237</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/12/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3907</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4307</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/12/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3931</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4331</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/12/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.3953</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4353</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/12/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4158</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4558</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/12/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4159</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4559</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/12/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4267</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4667</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/12/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4303</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4703</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2007/12/31</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(CNY)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4206</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 4.4606</font></b></td></tr>
+					
+	</table>
+		
+
+</body>
+</html>
+
+

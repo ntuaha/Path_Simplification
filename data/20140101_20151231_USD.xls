@@ -1,0 +1,1139 @@
+
+<html>
+
+	<table align="center" border="1" cellspacing="1" cellpadding="2" width="90%" class="tablebgcolor">
+		<tr>
+			<td align="center" class="td1" width="25%"><b><font color="#000000">日　　期<br>(Date)</font></b></td>
+			<td align="center" class="td1" width="31%"><b><font color="#000000">外幣幣別<br>(Currency)</font></b></td>
+			<td align="center" class="td1" width="22%"><b><font color="#000000">買進匯率<br>(We buy)</font></b></td>
+			<td align="center" class="td1" width="22%"><b><font color="#000000">賣出匯率<br>(We Sell)</font></b></td></tr>
+											
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.8900</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9900</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9300</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0300</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0000</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1000</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1000</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2000</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0700</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1700</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0100</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1100</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9900</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0900</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0200</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1200</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0700</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1700</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1100</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2100</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1100</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2100</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1100</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2100</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2300</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3300</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2900</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3900</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3800</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.4800</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3300</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.4300</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/01/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2800</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3800</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.4500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2800</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3800</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2800</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3800</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2800</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3800</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2000</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3000</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3100</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.4100</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3100</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.4100</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/02/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2000</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3000</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2800</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3800</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2800</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3800</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2800</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3800</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2900</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3900</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2800</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3800</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.4600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.4900</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.5900</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.5600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.6600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.5200</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.6200</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.5600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.6600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.4900</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.5900</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.4900</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.5900</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.4500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.5500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/03/31</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.4300</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.5300</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/01</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3300</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.4300</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2300</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3300</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2000</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3000</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2200</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3200</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0800</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1800</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1100</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2100</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1100</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2100</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1200</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2200</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1900</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2900</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2300</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3300</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2200</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3200</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2300</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3300</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2000</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3000</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/04/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1200</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2200</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0800</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1800</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0700</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1700</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0700</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1700</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0700</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1700</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1100</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2100</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1200</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2200</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1200</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2200</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1200</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2200</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0900</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1900</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1100</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2100</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1200</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2200</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0800</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1800</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0800</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1800</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0000</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1000</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/05/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0000</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1000</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9700</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0700</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0000</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1000</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9800</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0800</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0300</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1300</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0000</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1000</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9700</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0700</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9300</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0300</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9300</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0300</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9000</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0000</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.8600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/06/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.8200</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9200</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/01</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.8400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.8100</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9100</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.8300</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9300</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.8300</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9300</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.8700</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9700</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.8500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.8500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.8500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.8900</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9900</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9000</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0000</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0200</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1200</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9900</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0900</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9300</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0300</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9000</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0000</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/07/31</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/01</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/06</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/07</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/08</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0100</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1100</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9700</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0700</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/13</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9700</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0700</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/14</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/20</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/21</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/27</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.8800</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9800</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/28</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.8650</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9700</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/08/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.8600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/01</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.8300</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9300</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.8700</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9700</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.8700</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9700</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/04</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.8700</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9700</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/05</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.8800</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9800</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/09</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9000</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0000</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/10</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9300</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0300</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/11</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/12</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 29.9600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/15</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0100</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1100</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/16</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1000</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2000</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/17</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.0700</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1700</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/18</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1900</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2900</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/19</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1700</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2700</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/22</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1600</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2600</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/23</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1900</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2900</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/24</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.1900</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2900</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/25</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/26</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.2400</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3400</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/29</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.4500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.5500</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/09/30</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3800</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.4800</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/10/01</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.4000</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.5000</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/10/02</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3800</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.4800</font></b></td></tr>
+													
+						<tr>
+							<td align="center" class="td2" >&nbsp 2014/10/03</font></b></td>
+							<td align="center" bgcolor="#FFFFFF"> 美元(USD)</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.3500</font></b></td>
+							<td align="right" bgcolor="#FFFFFF">&nbsp 30.4500</font></b></td></tr>
+					
+	</table>
+		
+
+</body>
+</html>
+
+

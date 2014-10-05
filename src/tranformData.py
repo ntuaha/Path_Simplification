@@ -78,7 +78,7 @@ class PARSER:
 		for i in xrange(start,end,2):
 			start_dt =  str(i)+"0101"
 			end_dt = str(i+1)+"1231"
-			input_f = "%s/%s_%s.xls"%(self.folder,start_dt,end_dt)
+			input_f = "%s/%s_%s_%s.xls"%(self.folder,start_dt,end_dt,self.curr)
 			self.run("a+",input_f)
 
 
